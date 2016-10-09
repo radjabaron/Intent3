@@ -1,7 +1,7 @@
 # Intent3
 
-<h1>1. Judul Aplikasi : Intent 3</h1>
-<h1>2. Screenshoot : </h1>
+<h3>1. Judul Aplikasi : Intent 3</h3>
+<h3>2. Screenshoot : </h3>
 
 Screen Shoot 1
 
@@ -15,7 +15,7 @@ Screen Shoot 3
 
 ![intent2_3](https://cloud.githubusercontent.com/assets/22133450/19218156/5bf5315e-8e1c-11e6-9bfb-704d23415f43.png)
 
-<h1>Identitas : </h1>
+<h3>3. Identitas : </h3>
 - Nama : Baron Jahzyradja
 - Kelas : XII RPL 1
 - No. Urut : 10
